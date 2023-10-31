@@ -1,0 +1,6 @@
+xorg
+xorg-apps
+xorg-drivers
+xorg-server
+xorg-xinit
+xorg-xkill
