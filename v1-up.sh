@@ -68,6 +68,8 @@
 
 ##################################################################################################################
 
+BOLD='\e[1m'
+BLD_OFF='\e[22m'
 ITALIC='\e[3m'
 ITAL_OFF='\e[23m'
 UNDERLINE='\e[4m'
@@ -78,7 +80,7 @@ project="$(basename "$(pwd)")"
 
 tput setaf 6
 echo "######################################################################################################"
-echo -e "${UNDERLINE}Project${UL_OFF}: ${ITALIC}https://github.com/anisbsalah/${project}${ITAL_OFF}"
+echo -e "${BOLD}${ITALIC}${UNDERLINE}Project${UL_OFF}: https://github.com/anisbsalah/${project}${BLD_OFF}${ITAL_OFF}"
 echo "######################################################################################################"
 tput sgr0
 
