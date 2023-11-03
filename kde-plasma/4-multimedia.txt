@@ -3,6 +3,7 @@ alsa-firmware
 alsa-lib
 alsa-plugins
 alsa-utils
+sof-firmware
 pipewire
 pipewire-alsa
 pipewire-audio
