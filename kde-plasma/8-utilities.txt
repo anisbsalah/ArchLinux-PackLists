@@ -2,6 +2,7 @@ arj
 bash-completion
 cabextract
 cifs-utils
+dosfstools
 e2fsprogs
 exfat-utils
 filelight
@@ -14,6 +15,7 @@ gvfs-nfs
 gvfs-smb
 man-db
 man-pages
+mtools
 mtpfs
 nfs-utils
 nilfs-utils
