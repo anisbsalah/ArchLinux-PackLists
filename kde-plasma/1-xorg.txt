@@ -4,3 +4,4 @@ xorg-drivers
 xorg-server
 xorg-xinit
 xorg-xkill
+xorg-xwayland
