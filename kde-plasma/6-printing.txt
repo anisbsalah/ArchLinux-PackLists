@@ -16,3 +16,4 @@ libcups
 system-config-printer
 sane
 skanlite
+

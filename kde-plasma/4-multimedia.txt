@@ -4,12 +4,13 @@ alsa-lib
 alsa-plugins
 alsa-utils
 sof-firmware
+wireplumber
+pipewire-jack
 pipewire
 pipewire-alsa
 pipewire-audio
 pipewire-docs
 pipewire-ffado
-pipewire-jack
 pipewire-pulse
 pipewire-roc
 pipewire-v4l2
@@ -17,7 +18,6 @@ pipewire-x11-bell
 pipewire-zeroconf
 lib32-pipewire
 lib32-pipewire-jack
-wireplumber
 gst-plugin-pipewire
 gstreamer
 gst-plugins-good
@@ -27,3 +27,4 @@ gst-plugins-ugly
 pavucontrol
 playerctl
 volumeicon
+

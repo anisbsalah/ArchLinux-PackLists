@@ -42,3 +42,4 @@ wireless-regdb
 wireless_tools
 wget
 wpa_supplicant
+

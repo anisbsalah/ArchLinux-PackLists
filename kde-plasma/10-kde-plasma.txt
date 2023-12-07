@@ -79,3 +79,4 @@ spectacle
 svgpart
 xsettingsd
 yakuake
+
